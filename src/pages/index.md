@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: I'm editing this title
-    subtitle: Optional hero section subtitle
+    subtitle: I've decided I want a subtitle as well
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
