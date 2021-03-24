@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage
 sections:
   - type: hero_section
     title: I'm editing this title
