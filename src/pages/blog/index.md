@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blogs
-    subtitle: The optional subtitle
+    subtitle: The optional subtitles
     align: center
     padding_top: medium
     padding_bottom: none
