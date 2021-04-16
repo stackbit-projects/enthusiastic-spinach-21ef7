@@ -1577,8 +1577,6 @@ models:
         name: is_required
         label: Is the field required?
         default: false
-      - name: ''
-        type: string
   action:
     type: object
     label: Action
