@@ -1689,3 +1689,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  project:
+    type: page
+    label: project
