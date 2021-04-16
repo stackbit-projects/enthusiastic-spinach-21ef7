@@ -1692,3 +1692,4 @@ models:
   project:
     type: page
     label: project
+    layout: page
