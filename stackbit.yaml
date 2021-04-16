@@ -1696,3 +1696,6 @@ models:
   projects:
     type: page
     label: projects
+  lalala:
+    type: page
+    label: lalala
