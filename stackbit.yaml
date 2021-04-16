@@ -307,6 +307,8 @@ models:
         label: Title
         required: true
         description: The title of the category
+      - name: ''
+        type: string
   tag:
     type: data
     label: Tag
