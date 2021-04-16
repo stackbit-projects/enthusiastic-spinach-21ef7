@@ -1693,3 +1693,6 @@ models:
     type: page
     label: project
     layout: page
+  projects:
+    type: page
+    label: projects
