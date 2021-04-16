@@ -1699,3 +1699,4 @@ models:
   lalala:
     type: page
     label: lalala
+    layout: lalala
